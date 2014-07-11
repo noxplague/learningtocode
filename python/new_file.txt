@@ -1,0 +1,3 @@
+This is to test ex15, ex16, and ex17 
+ I wrote all of these exercises in python 
+ It is neat how they build on one another 
